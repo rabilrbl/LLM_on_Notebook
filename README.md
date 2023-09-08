@@ -5,4 +5,5 @@ The LLM UI is a web application that allows users to interact with the LLM model
 ## Setup
 
 1. Run all cells.
-2. You will get a link to the UI on the last cell. Click on the link to open the UI.
+2. Make sure to give input for GPU selection, (a) for NVIDIA GPU.
+3. You will get a link to the UI on the last cell. Click on the link to open the UI.
